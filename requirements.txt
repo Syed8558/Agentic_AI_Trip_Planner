@@ -13,3 +13,4 @@ requests
 langchain_tavily
 langchain-groq
 
+-e .
