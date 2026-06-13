@@ -1,6 +1,15 @@
 langchain
 langchain-community
 langchain-core
+langchain-experimental
 langgraph
-FastAPI
+fastAPI
 uvicorn
+python-dotenv
+streamlit
+pydantic
+httpx
+requests
+langchain_tavily
+langchain-groq
+
